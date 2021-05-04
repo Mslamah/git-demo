@@ -2,8 +2,6 @@
 
 This is the firt file in this repo.
 
-##Ipsum Below
+##Website Contents
 
-lndskfjhjhsfudsf oidjfdsif djkdisd dsoifsjdsofihsf josifsoidfsoifhsoioidf foidjoisdsdfsdjsodifj
-
-lndskfjhjhsfudsf oidjfdsif djkdisd dsoifsjdsofihsf josifsoidfsoifhsoioidf foidjoisdsdfsdjsodifj
+1. Index.html
